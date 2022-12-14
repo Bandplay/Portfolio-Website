@@ -7,6 +7,7 @@ import Stats from "./Stats";
 import Footer from "./Footer";
 import Portfolio from "./Portfolio";
 
+
 import Hero from "./Hero";
 
 export {
@@ -18,5 +19,6 @@ export {
   Footer,
   Portfolio,
   Hero,
+  
 
 };

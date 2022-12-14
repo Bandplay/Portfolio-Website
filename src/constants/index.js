@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "Years ",
-    value: "6",
+    title: "Business dev experience ",
+    value: "6 Years",
   },
   {
     id: "stats-2",
-    title: "Proficient languages",
-    value: "React/ Tailwind",
+    title: "Design Experience ",
+    value: "5+ Years",
   },
   {
     id: "stats-3",
-    title: "Interests",
-    value: "Front End Creativity, AI/ Web3",
+    title: "Languages and framerworks",
+    value: "5+",
   },
 ];
 
